@@ -167,7 +167,7 @@ const Scenes = [
     },
     {
         id: "Siatka",
-        text: '"Siatka? Mam lepszy pomysł, co powiecie na zagadkę? Powiedzcie jaki mecz oglądałem niedawno w Regis?"',
+        text: '"Siatka? Mam lepszy pomysł, co powiecie na zagadkę? Powiedzcie jaki mecz oglądałem niedawno w Walencji?"',
         tlo: 'url("img/Obojętny.png")',
         options: [
             {
